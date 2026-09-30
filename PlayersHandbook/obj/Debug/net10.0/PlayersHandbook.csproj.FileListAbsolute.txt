@@ -1,0 +1,15 @@
+C:\Users\todd.nason\Desktop\C#\PlayersHandbook\bin\Debug\net10.0\PlayersHandbook.exe
+C:\Users\todd.nason\Desktop\C#\PlayersHandbook\bin\Debug\net10.0\PlayersHandbook.deps.json
+C:\Users\todd.nason\Desktop\C#\PlayersHandbook\bin\Debug\net10.0\PlayersHandbook.runtimeconfig.json
+C:\Users\todd.nason\Desktop\C#\PlayersHandbook\bin\Debug\net10.0\PlayersHandbook.dll
+C:\Users\todd.nason\Desktop\C#\PlayersHandbook\bin\Debug\net10.0\PlayersHandbook.pdb
+C:\Users\todd.nason\Desktop\C#\PlayersHandbook\obj\Debug\net10.0\PlayersHandbook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\todd.nason\Desktop\C#\PlayersHandbook\obj\Debug\net10.0\PlayersHandbook.AssemblyInfoInputs.cache
+C:\Users\todd.nason\Desktop\C#\PlayersHandbook\obj\Debug\net10.0\PlayersHandbook.AssemblyInfo.cs
+C:\Users\todd.nason\Desktop\C#\PlayersHandbook\obj\Debug\net10.0\PlayersHandbook.csproj.CoreCompileInputs.cache
+C:\Users\todd.nason\Desktop\C#\PlayersHandbook\obj\Debug\net10.0\PlayersHandbook.sourcelink.json
+C:\Users\todd.nason\Desktop\C#\PlayersHandbook\obj\Debug\net10.0\PlayersHandbook.dll
+C:\Users\todd.nason\Desktop\C#\PlayersHandbook\obj\Debug\net10.0\refint\PlayersHandbook.dll
+C:\Users\todd.nason\Desktop\C#\PlayersHandbook\obj\Debug\net10.0\PlayersHandbook.pdb
+C:\Users\todd.nason\Desktop\C#\PlayersHandbook\obj\Debug\net10.0\PlayersHandbook.genruntimeconfig.cache
+C:\Users\todd.nason\Desktop\C#\PlayersHandbook\obj\Debug\net10.0\ref\PlayersHandbook.dll
